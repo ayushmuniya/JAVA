@@ -1,2 +1,2 @@
 # JAVA
-java hands on
+Java learning and question practice
