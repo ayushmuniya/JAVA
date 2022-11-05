@@ -21,7 +21,7 @@ public class Main
 		cars[1][2] = "F-150";
 		cars[2][0] = "Ferrari";
 		cars[2][1] = "Lambo";
-		cars[2][2] = "Tesla";
+		cars[2][2] = "Tesla";;
 		*/
 		
 
