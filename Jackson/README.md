@@ -1,0 +1,4 @@
+- Converting JSON to a Java object for processing is deserialization whereas serialization involves transforming the Java object to JSON.
+- Reading JSON Jacksomatically
+- Jackson object mapper: https://www.baeldung.com/jackson-object-mapper-tutorial
+- Jackson annotation : https://www.baeldung.com/jackson-annotations
